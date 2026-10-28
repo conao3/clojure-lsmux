@@ -31,7 +31,7 @@
             projectSrc = ./.;
             name = "com.github.conao3/lsmux";
             main-ns = "lsmux.core";
-            jdkRunner = pkgs.jdk17_headless;
+            jdkRunner = pkgs.jdk25_headless;
           };
 
           native = cljpkgs.mkGraalBin {
