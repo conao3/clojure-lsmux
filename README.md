@@ -1,4 +1,12 @@
-# lsmux
+<p align="center"><img src="docs/assets/banner.png" alt="lsmux: Routes Language Server Protocol requests to many language servers and merges their replies" width="880"></p>
+
+<p align="center"><strong>Routes Language Server Protocol requests to many language servers and merges their replies</strong></p>
+
+<p align="center"><a href="LICENSE"><img src="https://img.shields.io/github/license/conao3/clojure-lsmux" alt="License"></a> <a href="https://github.com/conao3/clojure-lsmux/stargazers"><img src="https://img.shields.io/github/stars/conao3/clojure-lsmux?style=flat" alt="GitHub stars"></a></p>
+
+<p align="center"><a href="#installation">Installation</a> | <a href="#usage">Usage</a> | <a href="#development">Development</a> | <a href="#license">License</a></p>
+
+<h1>lsmux</h1>
 
 An LSP (Language Server Protocol) multiplexer written in Clojure.
 
